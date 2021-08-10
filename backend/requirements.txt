@@ -1,0 +1,17 @@
+schedule
+yagmail
+click==7.1.1
+Flask==1.1.2
+Flask-Cors==3.0.8
+Flask-JWT-Extended==3.24.1
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+peewee==3.13.2
+PyJWT==1.7.1
+pymongo==3.10.1
+PyMySQL==0.9.3
+six==1.14.0
+Werkzeug==1.0.1
+
+
